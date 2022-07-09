@@ -4,9 +4,9 @@
   "private": true,
   "engines": {
     "node": "^16.13.2",
-    "npm":  "8.1.2"
+    "npm": "^8.1.2"
   },
-  "homepage": "https://anastassiyas.github.io/My-portfolio/",
+  "homepage": "https://anastassiyas.github.io/my-portfolio/",
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
